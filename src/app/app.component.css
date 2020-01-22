@@ -1,0 +1,11 @@
+
+h3{
+  color: black;
+  -webkit-text-fill-color: gray;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-family: "Footlight MT Light";
+  text-align: -webkit-center;
+  display: flex;
+  justify-content: center;
+}
